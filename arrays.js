@@ -1,2 +1,2 @@
-var pizzaToppings = ['tomato sauce', 'cheese', 'pepporoni'];
+var pizzaToppings = ['tomato sauce', 'cheese', 'pepperoni'];
 console.log(pizzaToppings);

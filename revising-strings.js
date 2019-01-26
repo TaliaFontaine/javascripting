@@ -1,4 +1,3 @@
-var pizza;
 var pizza = 'pizza is alright';
-pizza = pizza.replace('alright', 'is awesome');
+pizza = pizza.replace('alright', 'wonderful');
 console.log(pizza);
